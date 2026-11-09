@@ -17,39 +17,17 @@
 
 ## 👋 Who I Am
 
-```ts
-const aditya = {
-  name: "Aditya Raj",
-  title: "CSE (AI & ML) Student",
-  aspiringRole: "Data Scientist",
-  alsoDoes: "Social Media Manager · Video Editor",
-  college: "JIS College of Engineering, Kalyani (2025 – 2029)",
-  stack: {
-    languages: ["Python", "Java", "JavaScript", "HTML5", "CSS3"],
-    ai: ["ChatGPT", "Claude", "Gemini", "ElevenLabs", "Prompt Engineering"],
-    creative: [
-      "Premiere Pro", "After Effects", "Photoshop", "Figma",
-      "Canva", "CapCut", "Video Editing", "Social Media Management",
-    ],
-    devTools: ["Git", "GitHub", "VS Code"],
-  },
-  learningNext: [
-    "Data analysis — NumPy, Pandas",
-    "Machine learning — scikit-learn",
-    "Deep learning — TensorFlow, PyTorch",
-  ],
-  launchedProjects: [
-    "GraminSahayak AI — Hyper-Local Business & Financial Advisory (AKI HACKS)",
-    "Grew Quick Tricks By Sahil Sir on YouTube: 600 → 90k subscribers in 3 months",
-  ],
-  status: "Official Social Media Intern — CST & CSE-AIML, JIS College of Engineering",
-  openTo: [
-    "Social media management",
-    "Data science & AI/ML projects",
-    "Collaborations with creators & agencies",
-  ],
-} as const;
-```
+Hi, I'm **Aditya Raj** 👋
+
+- 🎓 **Studying:** B.Tech CSE (AI & ML) at JIS College of Engineering, Kalyani (2025 – 2029)
+- 🎯 **Aspiring:** Data Scientist
+- 📱 **Also:** Social Media Manager · Video Editor
+- 💼 **Currently:** Official Social Media Intern for the CST & CSE-AIML departments, JIS College of Engineering
+- 📚 **Learning next:** Data analysis (NumPy, Pandas) · Machine learning (scikit-learn) · Deep learning (TensorFlow, PyTorch)
+- 🚀 **Highlights:**
+  - GraminSahayak AI — Hyper-Local Business & Financial Advisory (AKI HACKS)
+  - Grew Quick Tricks By Sahil Sir on YouTube from 600 to 90k subscribers in 3 months
+- 🤝 **Open to:** Social media management · Data science & AI/ML projects · Collaborations with creators & agencies
 
 ---
 
