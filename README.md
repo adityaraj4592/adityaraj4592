@@ -131,7 +131,9 @@ A smart parking space detection system that analyzes a parking lot image, video 
 
 **Learning Next 📚 (Data & AI/ML)**
 
-<img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn,tensorflow,pytorch&theme=dark" alt="data and ai" />
+<img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch&theme=dark" alt="data and ai" />
+
+<img src="https://img.shields.io/badge/NumPy-1e293b?style=flat-square&logo=numpy&logoColor=7dd3fc" alt="NumPy" /> <img src="https://img.shields.io/badge/Pandas-1e293b?style=flat-square&logo=pandas&logoColor=7dd3fc" alt="Pandas" />
 
 ---
 
